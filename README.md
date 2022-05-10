@@ -16,4 +16,4 @@ in casa e secondo un piano per cui le scelte che farà l'utente determineranno i
 - *Dentale Alessandro* 
 - *Mehdi Ouassou*
 
-[Progetto Applab]("https://studio.code.org/projects/applab/rJe8mb5DidxksP4U80EmszMWSd4FvjF9Gc1HhnwXMqU")
+[Progetto Applab](https://studio.code.org/projects/applab/rJe8mb5DidxksP4U80EmszMWSd4FvjF9Gc1HhnwXMqU/)
