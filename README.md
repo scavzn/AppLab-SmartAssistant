@@ -1,6 +1,6 @@
 # **Concorso 2022 "La privacy: diritto umano nella società digitale"**
 
-## Gli assistenti vocali 🤖
+## Scegli Intelligentemente 🤖
 
 Le scelte che facciamo determinano il modo in cui ci comportiamo, non solo con le persone ma anche con
 l'intelligente artificiale, in questo caso gli assistenti vocali. <br />
