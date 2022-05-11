@@ -14,6 +14,6 @@ in casa e secondo un piano per cui le scelte che farà l'utente determineranno i
 - **Alfieri Daniele** (Sfondi, Markdown, Programmato codice UI) 🎴
 - **Beznea Stefano** (Immagini, Programmazione support mobile) 📱
 - **Dentale Alessandro** (Audio, Programmazione PC e TV) 💻
-- **Mehdi Ouassou** (Programmazione sistema di movimento ed eventi) 🚶‍♂️🚶‍♂
+- **Mehdi Ouassou** (Programmazione sistema di movimento ed eventi) 🚶‍♂️
 
 [[Progetto Applab](https://studio.code.org/projects/applab/rJe8mb5DidxksP4U80EmszMWSd4FvjF9Gc1HhnwXMqU)] [[Regolamento concorso](https://campus.marconivr.it/pluginfile.php/114616/mod_resource/content/0/Regolamento-MI-Concorso-privacy-diritto-umano-2022-finale.pdf)]
