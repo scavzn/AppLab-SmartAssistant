@@ -16,4 +16,4 @@ in casa e secondo un piano per cui le scelte che farà l'utente determineranno i
 - **Dentale Alessandro** (Audio, Programmazione PC e TV) 💻
 - **Mehdi Ouassou** (Programmazione sistema di movimento ed eventi) 🚶‍♂️
 
-[[Progetto Applab](https://studio.code.org/projects/applab/rJe8mb5DidxksP4U80EmszMWSd4FvjF9Gc1HhnwXMqU)] [[Regolamento concorso](https://campus.marconivr.it/pluginfile.php/114616/mod_resource/content/0/Regolamento-MI-Concorso-privacy-diritto-umano-2022-finale.pdf)]
+[[Progetto Applab](https://studio.code.org/projects/applab/zfc53-ixwdHRmIbQcby4nymtiuBJFyL9_sxmkoqVRI4)] [[Regolamento concorso](https://campus.marconivr.it/pluginfile.php/114616/mod_resource/content/0/Regolamento-MI-Concorso-privacy-diritto-umano-2022-finale.pdf)]
